@@ -1,0 +1,20 @@
+
+    h1
+    {color:Red
+    }
+    img
+    {width:400px
+    }
+    #ThirdDiv 
+    {   Height: 600px;
+        Width:500px;
+        background-color: pink;
+        padding:50px;
+        border:5px double darkmagenta;
+      }
+    .Spanid {
+        font-size: 18px;
+        margin: 50px;
+    }
+
+ 
